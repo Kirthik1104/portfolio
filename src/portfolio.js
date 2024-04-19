@@ -19,9 +19,9 @@ const seo = {
 
 //Home Page
 const greeting = {
-  title: "Prakash Upadhyay",
+  title: "Kirthikraj Kamaraj",
   logo_name: "PrakashUpadhyay",
-  nickname: "Open_Thinker",
+  nickname: "random_learner",
   subTitle:
     "An enthusiastic individual dedicated to developing end-to-end products that build sustainable and scalable social and technical systems, aiming to generate a significant impact.",
   resumeLink:
