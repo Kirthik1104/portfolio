@@ -70,13 +70,13 @@ const skills = {
   data: [
 
     {
-      title: "Full Stack Development",
+      title: "DevOps Engineer",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building responsive website front end using HTML5, CSS3, Bootstrap, React.Js & Redux",
-        "⚡ Creating application backend in Node, Express, Java Spring MVC, Hibernate, MySQL, NoSQL.",
-        "⚡ Specialize in creating Supply Chain and E-commerce full stack applications.",
-        "⚡ Developing mobile applications using Flutter, React.Js Native & Firebase",
+        "⚡ Version control: Git & Github",
+        "⚡ CI/CD: Jenkins, Cicle CI.",
+        "⚡ Contenerization and Orchestration: Docker Kubernetes.",
+        "⚡ Configuration Management: Ansible",
     
       ],
       softwareSkills: [
