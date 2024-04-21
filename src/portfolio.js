@@ -7,7 +7,7 @@ const settings = {
 
 //SEO Related settings
 const seo = {
-  title: "Prakash's Portfolio",
+  title: "Kirthikraj Portfolio",
   description:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   og: {
@@ -26,8 +26,8 @@ const greeting = {
     "Alex is enthusiastic individual dedicated to developing end-to-end products that build sustainable and scalable social and technical systems, aiming to generate a significant impact.",
   resumeLink:
     "https://drive.google.com/file/d/1RFxzUdUG4HcJcgIraqdrWiBTjMkjp6TK/view?usp=sharing",
-  portfolio_repository: "https://github.com/Prakash1919/masterPortfolio",
-  githubProfile: "https://github.com/upadder",
+  portfolio_repository: "https://github.com/Kirthik1104/portfolio-kirthik",
+  githubProfile: "https://github.com/Kirthik1104",
 };
 
 const socialMediaLinks = [
@@ -42,13 +42,13 @@ const socialMediaLinks = [
 
   {
     name: "Github",
-    link: "https://github.com/upadder",
+    link: "https://github.com/Kirthik1104",
     fontAwesomeIcon: "fa-github", // Reference https://fontawesome.com/icons/github?style=brands
     backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
   },
   {
     name: "LinkedIn",
-    link: "https://www.linkedin.com/in/prakashupadhyay29/",
+    link: "https://www.linkedin.com/in/kirthikrajkamaraj/",
     fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
@@ -60,7 +60,7 @@ const socialMediaLinks = [
   },
   {
     name: "Instagram",
-    link: "https://www.instagram.com/u_pad/",
+    link: "https://www.instagram.com/_kirthikraj_/",
     fontAwesomeIcon: "fa-instagram", // Reference https://fontawesome.com/icons/instagram?style=brands
     backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
   },
@@ -73,10 +73,10 @@ const skills = {
       fileName: "CloudInfraImg",
       skills: [
         "⚡ DevOps Aspirant specializing in AWS, Docker, Jenkins, CI/CD, Kubernetes, Linux, Git & Github webhooks",
-        "⚡ Expert in Designing and implementing End-to-End CI/CD Pipeline using Jenkins, Github webhooks.",
+        "⚡ Expert in Designing and implementing End-to-End CI/CD Pipeline using Jenkins, Github webhooks",
         "⚡ Proficient in creating a three-tier application with SDLC policy",
-        "⚡ Proficient in creating optimized Docker images, managing containerized applications, and deploying scalable Docker solutions for efficient application distribution and deployment.",
-        "⚡ Loading Up: Terraform, Ansible, Graphana, Prometheus, Grafana",
+        "⚡ Proficient in creating optimized Docker images, managing containerized applications, and deploying scalable Docker solutions for efficient application distribution and deployment",
+        "⚡ Loading Up: Terraform, Ansible, Graphana, Prometheus, Grafana.",
       ],
       softwareSkills: [
         {
@@ -93,20 +93,6 @@ const skills = {
         {
           skillName: "Apache Spark",
           imageSrc: "pyspark.png",
-        },
-        {
-          skillName: "PostGres SQL",
-          fontAwesomeClassname: "simple-icons:postgresql",
-          style: {
-            color: "#336791",
-          },
-        },
-        {
-          skillName: "MongoDB",
-          fontAwesomeClassname: "simple-icons:mongodb",
-          style: {
-            color: "#47A248",
-          },
         },
         {
           skillName: "Docker",
@@ -129,10 +115,11 @@ const skills = {
       fileName: "CloudInfraImg",
       skills: [
         "⚡ Experience working on multiple cloud platforms.",
-        "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases.",
-        "⚡ Expert in setting up data clusters and running jobs on gcp using Apache Hadoop & Spark.",
-        "⚡ Designing and implementing Continuous Integration and Continuous Deployment (CI/CD) pipelines using GitHub Actions",
-        "⚡ Proficient in creating optimized Docker images, managing containerized applications, and deploying scalable Docker solutions for efficient application distribution and deployment",
+        "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
+        "⚡ Experience in AWS services like 𝐄𝐂𝟐, 𝐄𝐂𝐑, 𝐒𝟑, 𝐀𝐌𝐈, 𝐈𝐀𝐌, 𝐑𝐨𝐮𝐭𝐞𝟓𝟑, 𝐑𝐃𝐒, 𝐄𝐅𝐒, 𝐒𝐍𝐒, 𝐂𝐥𝐨𝐮𝐝𝐅𝐫𝐨𝐧𝐭, 𝐕𝐏𝐂, 𝐋𝐨𝐚𝐝 𝐁𝐚𝐥𝐚𝐧𝐜𝐞𝐫 and 𝐀𝐮𝐭𝐨-𝐒𝐜𝐚𝐥𝐢𝐧𝐠",
+        "⚡ Experienced in leading successful migrations of on-premises applications to the cloud, with extensive knowledge in designing and implementing cloud architectures to optimize performance and cost efficiency",
+        "⚡ Proficient in creating a three-tier application in the cloud with high availability and zero downtime",
+        "⚡ Certified Solutions Architect",
       ],
       softwareSkills: [
         {
@@ -185,10 +172,10 @@ const skills = {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building responsive website front end using HTML5, CSS3, Bootstrap, React.Js & Redux",
-        "⚡ Creating application backend in Node, Express, Java Spring MVC, Hibernate, MySQL, NoSQL.",
+        "⚡ Building responsive website front end using HTML5, CSS3, Bootstrap, React.Js",
+        "⚡ Creating application backend in Python3 MySQL, NoSQL.",
         "⚡ Specialize in creating Supply Chain and E-commerce full stack applications.",
-        "⚡ Developing mobile applications using Flutter, React.Js Native & Firebase",
+        "⚡ Developing mobile applications using Flutter, & Firebase",
     
       ],
       softwareSkills: [
@@ -236,20 +223,6 @@ const skills = {
           },
         },
         {
-          skillName: "Hibernate",
-          fontAwesomeClassname: "simple-icons:hibernate",
-          style: {
-            color: "#2C8EBB",
-          },
-        },
-        {
-          skillName: "Spring",
-          fontAwesomeClassname: "simple-icons:spring",
-          style: {
-            color: "#339933",
-          },
-        },
-        {
           skillName: "MySQL",
           imageSrc: "mysql.png",
           style: {
@@ -259,13 +232,6 @@ const skills = {
         {
           skillName: "Python",
           imageSrc: "python.png",
-          style: {
-            color: "#663399",
-          },
-        },
-        {
-          skillName: "Java",
-          imageSrc: "java.png",
           style: {
             color: "#663399",
           },
@@ -292,7 +258,7 @@ const skills = {
       skills: [
         "⚡ Developing highly scalable production ready machine learning models for various kaggle projects and statistical use cases",
         "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
-        "⚡ Experience of working with GPT-4 and prompt engineering to make automated models for targeted portfolio building",
+        "⚡ Hands on Experience with Pandas, Numpy, Keras, OpenCV, Tensorflow, Scikit-learn, Matplotlib, OpenCV, CNN",
         
       ],
       softwareSkills: [
