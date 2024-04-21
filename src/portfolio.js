@@ -69,77 +69,58 @@ const socialMediaLinks = [
 const skills = {
   data: [
     {
-      title: "Full Stack Development",
-      fileName: "FullStackImg",
+      title: "Cloud Infra-Architecture & Database Management",
+      fileName: "CloudInfraImg",
       skills: [
-        "⚡ Building responsive website front end using HTML5, CSS3, Bootstrap, React.Js & Redux",
-        "⚡ Creating application backend in MySQL, NoSQL.",
-        "⚡ Specialize in creating Supply Chain and E-commerce full stack applications.",
-        "⚡ Developing mobile applications using Flutter, Firebase",
+        "⚡ Experience working on multiple cloud platforms.",
+        "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases.",
+        "⚡ Expert in setting up data clusters and running jobs on gcp using Apache Hadoop & Spark.",
+        "⚡ Designing and implementing Continuous Integration and Continuous Deployment (CI/CD) pipelines using GitHub Actions",
+        "⚡ Proficient in creating optimized Docker images, managing containerized applications, and deploying scalable Docker solutions for efficient application distribution and deployment",
       ],
       softwareSkills: [
         {
-          skillName: "HTML5",
-          fontAwesomeClassname: "simple-icons:html5",
+          skillName: "GCP",
+          fontAwesomeClassname: "simple-icons:googlecloud",
           style: {
-            color: "#E34F26",
+            color: "#4285F4",
+          },
+        },
+        
+        {
+          skillName: "Apache Hadoop",
+          imageSrc: "hadoop.png",
+        },
+        {
+          skillName: "Apache Spark",
+          imageSrc: "pyspark.png",
+        },
+        {
+          skillName: "PostGres SQL",
+          fontAwesomeClassname: "simple-icons:postgresql",
+          style: {
+            color: "#336791",
           },
         },
         {
-          skillName: "CSS3",
-          fontAwesomeClassname: "fa-css3",
+          skillName: "MongoDB",
+          fontAwesomeClassname: "simple-icons:mongodb",
           style: {
-            color: "#1572B6",
+            color: "#47A248",
           },
         },
         {
-          skillName: "JavaScript",
-          fontAwesomeClassname: "simple-icons:javascript",
+          skillName: "Docker",
+          fontAwesomeClassname: "simple-icons:docker",
           style: {
-            backgroundColor: "#000000",
-            color: "#F7DF1E",
+            color: "#1488C6",
           },
         },
         {
-          skillName: "ReactJS",
-          fontAwesomeClassname: "simple-icons:react",
+          skillName: "Kubernetes",
+          fontAwesomeClassname: "simple-icons:kubernetes",
           style: {
-            color: "#61DAFB",
-          },
-        },
-        {
-          skillName: "NPM",
-          fontAwesomeClassname: "simple-icons:npm",
-          style: {
-            color: "#CB3837",
-          },
-        },
-        {
-          skillName: "MySQL",
-          imageSrc: "mysql.png",
-          style: {
-            color: "#663399",
-          },
-        },
-        {
-          skillName: "Python",
-          imageSrc: "python.png",
-          style: {
-            color: "#663399",
-          },
-        },
-        {
-          skillName: "Flutter",
-          fontAwesomeClassname: "simple-icons:flutter",
-          style: {
-            color: "#02569B",
-          },
-        },
-        {
-          skillName: "Firebase",
-          fontAwesomeClassname: "simple-icons:firebase",
-          style: {
-            color: "#FFCA28",
+            color: "#326CE5",
           },
         },
       ],
@@ -197,6 +178,111 @@ const skills = {
           fontAwesomeClassname: "simple-icons:kubernetes",
           style: {
             color: "#326CE5",
+          },
+        },
+      ],
+    },
+    {
+      title: "Full Stack Development",
+      fileName: "FullStackImg",
+      skills: [
+        "⚡ Building responsive website front end using HTML5, CSS3, Bootstrap, React.Js & Redux",
+        "⚡ Creating application backend in Node, Express, Java Spring MVC, Hibernate, MySQL, NoSQL.",
+        "⚡ Specialize in creating Supply Chain and E-commerce full stack applications.",
+        "⚡ Developing mobile applications using Flutter, React.Js Native & Firebase",
+    
+      ],
+      softwareSkills: [
+        {
+          skillName: "HTML5",
+          fontAwesomeClassname: "simple-icons:html5",
+          style: {
+            color: "#E34F26",
+          },
+        },
+        {
+          skillName: "CSS3",
+          fontAwesomeClassname: "fa-css3",
+          style: {
+            color: "#1572B6",
+          },
+        },
+        {
+          skillName: "JavaScript",
+          fontAwesomeClassname: "simple-icons:javascript",
+          style: {
+            backgroundColor: "#000000",
+            color: "#F7DF1E",
+          },
+        },
+        {
+          skillName: "ReactJS",
+          fontAwesomeClassname: "simple-icons:react",
+          style: {
+            color: "#61DAFB",
+          },
+        },
+        {
+          skillName: "NodeJS",
+          fontAwesomeClassname: "simple-icons:nodedotjs",
+          style: {
+            color: "#339933",
+          },
+        },
+        {
+          skillName: "NPM",
+          fontAwesomeClassname: "simple-icons:npm",
+          style: {
+            color: "#CB3837",
+          },
+        },
+        {
+          skillName: "Hibernate",
+          fontAwesomeClassname: "simple-icons:hibernate",
+          style: {
+            color: "#2C8EBB",
+          },
+        },
+        {
+          skillName: "Spring",
+          fontAwesomeClassname: "simple-icons:spring",
+          style: {
+            color: "#339933",
+          },
+        },
+        {
+          skillName: "MySQL",
+          imageSrc: "mysql.png",
+          style: {
+            color: "#663399",
+          },
+        },
+        {
+          skillName: "Python",
+          imageSrc: "python.png",
+          style: {
+            color: "#663399",
+          },
+        },
+        {
+          skillName: "Java",
+          imageSrc: "java.png",
+          style: {
+            color: "#663399",
+          },
+        },
+        {
+          skillName: "Flutter",
+          fontAwesomeClassname: "simple-icons:flutter",
+          style: {
+            color: "#02569B",
+          },
+        },
+        {
+          skillName: "Firebase",
+          fontAwesomeClassname: "simple-icons:firebase",
+          style: {
+            color: "#FFCA28",
           },
         },
       ],
