@@ -86,22 +86,13 @@ const skills = {
             color: "#4285F4",
           },
         },
-        
         {
-          skillName: "Jenkins",
-          imageSrc: "Jenkins.png",
+          skillName: "Apache Hadoop",
+          imageSrc: "hadoop.png",
         },
         {
-          skillName: "Terrafrom",
-          imageSrc: "Terraform.png",
-        },
-        {
-          skillName: "Ansible_Logo",
-          imageSrc: "Jenkins.png",
-        },
-        {
-          skillName: "Grafana",
-          imageSrc: "grafana.png",
+          skillName: "Apache Spark",
+          imageSrc: "pyspark.png",
         },
         {
           skillName: "PostGres SQL",
