@@ -72,11 +72,11 @@ const skills = {
       title: "Cloud Infra-Architecture & Database Management",
       fileName: "CloudInfraImg",
       skills: [
-        "⚡ Experience working on multiple cloud platforms.",
-        "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases.",
-        "⚡ Expert in setting up data clusters and running jobs on gcp using Apache Hadoop & Spark.",
-        "⚡ Designing and implementing Continuous Integration and Continuous Deployment (CI/CD) pipelines using GitHub Actions",
-        "⚡ Proficient in creating optimized Docker images, managing containerized applications, and deploying scalable Docker solutions for efficient application distribution and deployment",
+        "⚡ DevOps Aspirant specializing in AWS, Docker, Jenkins, CI/CD, Kubernetes, Linux, Git & Github webhooks",
+        "⚡ Expert in Designing and implementing End-to-End CI/CD Pipeline using Jenkins, Github webhooks.",
+        "⚡ Proficient in creating a three-tier application with SDLC policy",
+        "⚡ Proficient in creating optimized Docker images, managing containerized applications, and deploying scalable Docker solutions for efficient application distribution and deployment.",
+        "⚡ Loading Up: Terraform, Ansible, Graphana, Prometheus, Grafana",
       ],
       softwareSkills: [
         {
@@ -88,12 +88,20 @@ const skills = {
         },
         
         {
-          skillName: "Apache Hadoop",
-          imageSrc: "hadoop.png",
+          skillName: "Jenkins",
+          imageSrc: "Jenkins.png",
         },
         {
-          skillName: "Apache Spark",
-          imageSrc: "pyspark.png",
+          skillName: "Terrafrom",
+          imageSrc: "Terraform.png",
+        },
+        {
+          skillName: "Ansible_Logo",
+          imageSrc: "Jenkins.png",
+        },
+        {
+          skillName: "Grafana",
+          imageSrc: "grafana.png",
         },
         {
           skillName: "PostGres SQL",
