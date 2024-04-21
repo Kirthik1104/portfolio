@@ -68,16 +68,14 @@ const socialMediaLinks = [
 
 const skills = {
   data: [
-
     {
-      title: "DevOps Engineer",
+      title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Version control: Git & Github",
-        "⚡ CI/CD: Jenkins, Cicle CI.",
-        "⚡ Contenerization and Orchestration: Docker Kubernetes.",
-        "⚡ Configuration Management: Ansible",
-    
+        "⚡ Building responsive website front end using HTML5, CSS3, Bootstrap, React.Js & Redux",
+        "⚡ Creating application backend in MySQL, NoSQL.",
+        "⚡ Specialize in creating Supply Chain and E-commerce full stack applications.",
+        "⚡ Developing mobile applications using Flutter, Firebase",
       ],
       softwareSkills: [
         {
@@ -110,31 +108,10 @@ const skills = {
           },
         },
         {
-          skillName: "NodeJS",
-          fontAwesomeClassname: "simple-icons:nodedotjs",
-          style: {
-            color: "#339933",
-          },
-        },
-        {
           skillName: "NPM",
           fontAwesomeClassname: "simple-icons:npm",
           style: {
             color: "#CB3837",
-          },
-        },
-        {
-          skillName: "Hibernate",
-          fontAwesomeClassname: "simple-icons:hibernate",
-          style: {
-            color: "#2C8EBB",
-          },
-        },
-        {
-          skillName: "Spring",
-          fontAwesomeClassname: "simple-icons:spring",
-          style: {
-            color: "#339933",
           },
         },
         {
@@ -147,13 +124,6 @@ const skills = {
         {
           skillName: "Python",
           imageSrc: "python.png",
-          style: {
-            color: "#663399",
-          },
-        },
-        {
-          skillName: "Java",
-          imageSrc: "java.png",
           style: {
             color: "#663399",
           },
