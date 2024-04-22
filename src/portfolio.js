@@ -20,7 +20,7 @@ const seo = {
 //Home Page
 const greeting = {
   title: "Kirthikraj Kamaraj",
-  logo_name: "PrakashUpadhyay",
+  logo_name: "KirthikrajKamaraj",
   nickname: "random_learner",
   subTitle:
     "Alex is enthusiastic individual dedicated to developing end-to-end products that build sustainable and scalable social and technical systems, aiming to generate a significant impact.",
@@ -369,7 +369,7 @@ const competitiveSites = {
 const degrees = {
   degrees: [
     {
-      title: "Stony Brook University",
+      title: "Binghamton University",
       subtitle: "M.S in Computer Science",
       logo_path: "sbu_logo.png",
       alt_name: "Stony Brook University",
@@ -379,11 +379,11 @@ const degrees = {
         "⚡ My current academic journey includes engaging in advanced courses such as Theory of Database Systems, Advances in AI/ML, and Data Science Fundamentals, under the guidance of Professor Steven Skiena, a renowned figure in the field. These courses are not only shaping my technical acumen but also allowing me to delve deep into the intricacies of modern computational theories and practices.",
         "⚡ In recognition of my academic proficiency and expertise, Stony Brook University offered me the position of Graduate Teaching Assistant. In this role, I am actively involved in facilitating CSE 416 - Software Engineering instructional sessions, focusing primarily on practical MERN stack labs. My responsibilities extend to managing project supervision and assignment assessments, along with providing expert mentorship to students.",
       ],
-      website_link: "https://www.stonybrook.edu/",
+      website_link: "https://www.binghamton.edu/",
     },
     {
       title: "University of Mumbai",
-      subtitle: "B.E in Information Technology ",
+      subtitle: "B.E in Computer Science ",
       logo_path: "mu_logo.png",
       alt_name: "University of Mumbai",
       duration: "2017 - 2021",
