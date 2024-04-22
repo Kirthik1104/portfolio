@@ -372,7 +372,7 @@ const degrees = {
       title: "Binghamton University",
       subtitle: "M.S in Computer Science",
       logo_path: "bingh.png",
-      alt_name: "Stony Brook University",
+      alt_name: "Binghamton University",
       duration: "Aug 2023-Dec 2024",
       descriptions: [
         "⚡ I am currently enrolled in the Master of Science program in Computer Science at Stony Brook University, where I am a recipient of a prestigious paid scholarship, awarded for academic excellence. This scholarship is a testament to my dedication and standing among the top tier of students at the university.",
