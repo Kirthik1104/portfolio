@@ -375,9 +375,9 @@ const degrees = {
       alt_name: "Binghamton University",
       duration: "Aug 2023-Dec 2024",
       descriptions: [
-        "⚡ I am currently enrolled in the Master of Science program in Computer Science at Stony Brook University, where I am a recipient of a prestigious paid scholarship, awarded for academic excellence. This scholarship is a testament to my dedication and standing among the top tier of students at the university.",
-        "⚡ My current academic journey includes engaging in advanced courses such as Theory of Database Systems, Advances in AI/ML, and Data Science Fundamentals, under the guidance of Professor Steven Skiena, a renowned figure in the field. These courses are not only shaping my technical acumen but also allowing me to delve deep into the intricacies of modern computational theories and practices.",
-        "⚡ In recognition of my academic proficiency and expertise, Stony Brook University offered me the position of Graduate Teaching Assistant. In this role, I am actively involved in facilitating CSE 416 - Software Engineering instructional sessions, focusing primarily on practical MERN stack labs. My responsibilities extend to managing project supervision and assignment assessments, along with providing expert mentorship to students.",
+        "⚡ I am currently enrolled in the Master of Science program in Computer Science at SUNY, Binghamton University",
+        "⚡ Courses Completed: Operating System, Computer Organization and Architecture, Design and Analysis of Algorithm, Programming Languages, System Programming, Cloud Computing, Computer Security, Database Systems, Social Media DataScience Pipeline.",
+        "⚡ Currently working as a Web Designer for Binghamton University. Leading the full scale and redesign and dveleopment of Binghamton University Help Desk website",
       ],
       website_link: "https://www.binghamton.edu/",
     },
@@ -388,12 +388,12 @@ const degrees = {
       alt_name: "University of Mumbai",
       duration: "2017 - 2021",
       descriptions: [
-        "⚡ Graduated in the top 5% of my class with a distinguished 3.8/4 or 9.3/10 CGPA from the University of Mumbai, reflecting a strong academic record in Information Technology.",
-        "⚡ Volunteered with the Extension Work Team (EWT) during my undergraduate, teaching underprivileged children in Mumbai, and contributing to initiatives aimed at enhancing their quality of life in a rapidly evolving socio-economic landscape.",
-        "⚡ Completed key certifications and courses in Data Structures, Algorithms, Database Management, and Software Engineering, complemented by internships as a Software Engineer Intern at DevCentrics Technologies and an AI Intern at Smartbridge.  ",
-        "⚡ Winner of MULTICON-W Engineering Workshop & Paper Presentation Competition-2018"
+        "⚡ Completed key certifications and courses in Data Structures, Algorithms, Database Management, and Software Engineering, complemented by internships as a Software Developer Intern at Gustovalley Technovations LLP and an Networking Intern at Thakur College of Engineering & Technology.",
+        "⚡ Lead the National Service Scheme (NSS) as the Junior Council & under the post of Website Manager for the year 2020-2021, teaching underprivileged children in Mumbai, and contributing to initiatives aimed at enhancing their quality of life in a rapidly evolving socio-economic landscape.",
+        "⚡ Published a paper in <b>International Journal for Research in Applied Science and Engineering Technology (IJRASET)</b> on “Student Faculty Portal using ML & Cloud Services”, Nov 2021.",
+        "⚡ Technical paper presentation in National Level Technical Symposium, V-SymCoSci, at Muthayamal College of Engineering;(April 2021)"
       ],
-      website_link: "https://www.indiana.edu/",
+      website_link: "https://mu.ac.in/",
     },
   ],
 };
