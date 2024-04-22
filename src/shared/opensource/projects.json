@@ -2,10 +2,10 @@
   "data": [
     {
       "id": "MDEwOlJlcG9zaXRvcnkzMjcyMjI5Njk=",
-      "name": "JustApply.ai: Personal Resume and Cover letter builder",
-      "createdAt": "2021-01-06T06:36:41Z",
-      "url": "https://github.com/Viral-Doshi/JustApply.ai",
-      "description": "🚀 Use ChatGPT and LLM's extensive power to personalize your resume and pass ATS scanning with amazing score",
+      "name": "Nodejs web application",
+      "createdAt": "2024-04-08T06:36:41Z",
+      "url": "https://github.com/Kirthik1104/todo-node-app",
+      "description": "🚀 Created CI/CD pipeline for Nodejs web application, using docker, jenkins, AWS EC2 & webhooks",
       "isFork": false,
       "languages": [
         {
@@ -32,10 +32,10 @@
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "Mobile Application : Interview Achiever",
-      "createdAt": "2020-03-06T16:26:54Z",
-      "url": "https://play.google.com/store/apps/details?id=interview.interview_achiever&hl=en_US&gl=US",
-      "description": "🔥 Mobile App created for final year undergradute students for preparation of technical and HR interviews",
+      "name": "Social-Media-Datascience-Pipeline",
+      "createdAt": "2024-02-01T16:26:54Z",
+      "url": "https://github.com/Kirthik1104/Social_Media_Datascience_Pipeline",
+      "description": "🔥  Interactive Dashboard and Analysis for Gun Culture and Hate Speech on Social Media",
       "isFork": false,
       "languages": [
         {
@@ -59,10 +59,10 @@
     },
     {
       "id": "R_kgDOG_vYHA",
-      "name": "Virtual Paint using OpenCV",
-      "createdAt": "2022-03-13T20:41:33Z",
-      "url": "https://github.com/upadder/VirtualPaint",
-      "description": "📦 User can create paintings virtually on live video, Project made using OpenCV.",
+      "name": "Two-tier-live-chat-in-cloud-application",
+      "createdAt": "2023-05-13T20:41:33Z",
+      "url": "https://github.com/Kirthik1104/Two-tier-live-chat-in-cloud-application",
+      "description": "📦 The project involved building a simple two-tier live chat application and deploying it on Google Cloud using both native and containerized setups.",
       "isFork": false,
       "languages": [
         {
@@ -77,10 +77,10 @@
     },
     {
       "id": "R_kgDOG0_8uQ",
-      "name": "Corona Live Tracker Notification System(WebScrapper)",
+      "name": "Airbnb-Data-Analysis",
       "createdAt": "2022-02-11T14:50:20Z",
-      "url": "https://github.com/upadder/CoronaIndianLiveTrackerNotificationSystem",
-      "description": "🌀 Web scraper python program can be used to Live track the number of cases of Covid-19 in india both total and Statewise",
+      "url": "https://github.com/Kirthik1104/Airbnb-Data-Analysis",
+      "description": "🌀 dentified the number of Airbnb locations owned by an individual host also predicted popular Airbnb locations along with high rated host furthermore gathered locations of different room types with minimum prices and maximum reviews.",
       "isFork": false,
       "languages": [
         {
@@ -103,10 +103,10 @@
     },
     {
       "id": "R_kgDOGcPKSQ",
-      "name": "Personal Python Assitant",
-      "createdAt": "2021-11-26T17:56:07Z",
-      "url": "https://github.com/upadder/desktopAssistantPython",
-      "description": "⚙️ Personal Python virtual assitant that can help do you windows task using voice",
+      "name": "Fake-News-Detection",
+      "createdAt": "2022-11-26T17:56:07Z",
+      "url": "https://github.com/Kirthik1104/Fake-News-Detection",
+      "description": "⚙️ Developed an application to detect whether a given news article is fake or real in Python with Machine Learning algorithms",
       "isFork": false,
       "languages": [
         {
@@ -121,10 +121,10 @@
     },
     {
       "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
-      "name": "Face Identifier using Haarcascade",
+      "name": "Grocery-Shopping-Cart-Analysis",
       "createdAt": "2021-01-01T08:31:51Z",
-      "url": "https://github.com/Prakash1919/react-liquidswipe",
-      "description": "🚀 Simple Face Identifier made in Python using OpenCV which can identify any face in the images, the best thing is that we use a cascade already built and trained named as Haarcascade.",
+      "url": "https://github.com/Kirthik1104/Grocery-Shopping-Cart-Analysis",
+      "description": "🚀 Leveraging an already stored data and to analyze customer purchasing patterns in a grocery shop to maximize sales and profit",
       "isFork": false,
       "languages": [
         {
