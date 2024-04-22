@@ -371,7 +371,7 @@ const degrees = {
     {
       title: "Binghamton University",
       subtitle: "M.S in Computer Science",
-      logo_path: "sbu_logo.png",
+      logo_path: "bingh.png",
       alt_name: "Stony Brook University",
       duration: "Aug 2023-Dec 2024",
       descriptions: [
