@@ -69,7 +69,7 @@ const socialMediaLinks = [
 const skills = {
   data: [
     {
-      title: "Cloud Infra-Architecture & Database Management",
+      title: "DevOps Engineer",
       fileName: "CloudInfraImg",
       skills: [
         "⚡ DevOps Aspirant specializing in AWS, Docker, Jenkins, CI/CD, Kubernetes, Linux, Git & Github webhooks",
@@ -373,7 +373,7 @@ const degrees = {
       subtitle: "M.S in Computer Science",
       logo_path: "bingh.png",
       alt_name: "Binghamton University",
-      duration: "Aug 2023-Dec 2024",
+      duration: "Aug 2022-May 2024",
       descriptions: [
         "⚡ I am currently enrolled in the Master of Science program in Computer Science at SUNY, Binghamton University",
         "⚡ Courses Completed: Operating System, Computer Organization and Architecture, Design and Analysis of Algorithm, Programming Languages, System Programming, Cloud Computing, Computer Security, Database Systems, Social Media DataScience Pipeline.",
@@ -386,7 +386,7 @@ const degrees = {
       subtitle: "B.E in Computer Science ",
       logo_path: "mu_logo.png",
       alt_name: "University of Mumbai",
-      duration: "2017 - 2021",
+      duration: "Aug 2018-June 2022",
       descriptions: [
         "⚡ Completed key certifications and courses in Data Structures, Algorithms, Database Management, and Software Engineering, complemented by internships as a Software Developer Intern at Gustovalley Technovations LLP and an Networking Intern at Thakur College of Engineering & Technology.",
         "⚡ Lead the National Service Scheme (NSS) as the Junior Council & under the post of Website Manager for the year 2020-2021, teaching underprivileged children in Mumbai, and contributing to initiatives aimed at enhancing their quality of life in a rapidly evolving socio-economic landscape.",
@@ -449,7 +449,7 @@ const experience = {
   title: "Experience",
   subtitle: "Work, Internship and Volunteership",
   description:
-    "I have 2 years of working experience as a Digital Specialist Engineer at Infosys Private Limited, I played a pivotal role in developing full-stack applications for Toyota Motors Europe, leading teams to create automated solutions that enhanced operational efficiency and customer satisfaction. This experience, recognized by the Insta Award for exceptional project work, I also worked in many projects as as Intern and created some projects of my own that are live currently, This experience was complemented by my commitment to social responsibility, demonstrated through volunteer work with the Extension Work Team (EWT) where I educated underprivileged children in Mumbai.",
+    "",
   header_image_path: "experience.svg",
   sections: [
     {
@@ -457,33 +457,33 @@ const experience = {
       work: true,
       experiences: [
         {
-          title: "Digital Specialist Engineer",
-          company: "Infosys Limited",
-          company_url: "https://www.infosys.com/",
-          logo_path: "Infosys_logo.png",
-          duration: "Oct 2021 - July 2023",
-          location: "Pune, India",
-          description:"As a Digital Specialist Engineer at Infosys Private Limited, I led key projects for Toyota Motors Europe, making impactful contributions in software development and process automation. Notably, I directed the development of a full-stack application for the Electronic Data Interchange Portal, significantly enhancing operational efficiency and supplier collaboration. This achievement, alongside the integration of a customs portal that resulted in substantial cost savings and improved customer retention, showcased my expertise in utilizing technologies like React.js, Node.js, and AWS. My role in these projects exemplified my ability to innovate and lead in high-stakes environments, consistently delivering solutions that drive meaningful business outcomes",
+          title: "Web Designer",
+          company: "Information Technology Services, Binghamton University",
+          company_url: "https://www.binghamton.edu/its/index.html",
+          logo_path: "bingh.png",
+          duration: "May 2023 - Present",
+          location: "Binghamton, New York",
+          description:"Led the full-scale redesign and development of Binghamton University’s IT Help Desk website in Omni CMS. Transformed web traffic analysis into actionable insights, strategically organizing and highlighting high-demand serviceson the homepage, resulting in a decrease in support tickets related to common service discovery",
           color: "#0879bf",
         },
         {
-          title: "Artificial Intelligence Intern",
-          company: "Smartbridge",
-          company_url: "https://smartbridge.com/",
-          logo_path: "smartbridge_logo.png",
-          duration: "June 2020 - July 2020",
+          title: "Software Developer Intern",
+          company: "Gustovalley Technovations LLP",
+          company_url: "https://gustovalley.in/",
+          logo_path: "gustovalley.jpeg",
+          duration: "Sept 2021 - Oct 2021",
           location: "Mumbai, India",
-          description:"During my internship as an Artificial Intelligence Intern at Smartbridge, I was tasked with developing an advanced customer care chatbot from the ground up. This chatbot was designed to go beyond answering basic queries like store locations and hours; it was integrated with Watson Discovery Service to handle complex inquiries related to device operations. By leveraging the Smart Document Understanding feature of Watson Discovery, I trained the system to discern relevant information from device manuals, enhancing the chatbot's capability to provide precise answers. This project not only improved customer experience by offering detailed responses from the owners' manuals but also represented a significant step forward in AI-driven customer support solutions.", 
+          description:"Created an IoT application using the Blynk app to control appliances and monitor devices remotely. Implemented server setup and utilized HTML, CSS, SQL database, and PHP to develop a web application to efficiently capture and manage Microcontroller status. Implemented API links to update server data and retrieve controller status, ensuring responsive IoT device control.", 
           color: "#9b1578",
         },
         {
-          title: "Software Engineer Intern",
-          company: "DevCentrics Technologies Pvt. Ltd.",
-          company_url: "https://www.linkedin.com/company/vcentric-technologies-p-ltd-/?originalSubdomain=in",
-          logo_path: "vcentric_logo.png",
-          duration: "Aug 2019 - Sep 2019",
-          location: "Bengaluru, India",
-          description:"During my two-month tenure as a Software Engineer Intern at DevCentrics Technologies Private Limited in Bengaluru, I focused on Full Stack Development, encompassing a range of modern web technologies. My role involved utilizing MongoDB for database management, React.js and CSS for frontend development, and Node.js with Express.js for backend services. I also applied HTML5 skills for structuring and presenting content on the web. This experience allowed me to deepen my understanding of the entire development process, from database design to user interface creation, honing my capabilities in creating cohesive and functional web applications.",
+          title: "Networking Intern",
+          company: "Thakur College of Engineering & Technology",
+          company_url: "https://www.tcetmumbai.in/",
+          logo_path: "tcet.jpg",
+          duration: "Jun 2020 - Jul 2020",
+          location: "Mumbai, India",
+          description:"Analyzed different routing changes including BGP, OSPF, and EIGRP and improved network performance by 30%. Detected network vulnerabilities through infrastructure security testing and threat tracking. Attained proficiency in working with Cisco hardware by constructing network topologies using various scenarios",
           color: "#fc1f20",
         },
       ],
@@ -492,26 +492,25 @@ const experience = {
       title: "Volunteerships",
       experiences: [
         {
-          title: "Volunteer at Extension Work Team",
-          company: "TCET-EWT",
-          company_url: "https://about.google/",
-          logo_path: "ewt_logo.png",
-          duration: "Aug 2018 - Aug 2019",
+          title: "Junior Council",
+          company: "TCET-NSS",
+          company_url: "https://www.tcetmumbai.in/nssTCET.html",
+          logo_path: "NSS.jpg",
+          duration: "Aug 2019 - Aug 2020",
           location: "Mumbai, India",
-          description:"As a committed volunteer with the Extension Work Team (EWT), I dedicated my time and efforts to educate underprivileged children in various locations around Mumbai. The EWT, focused on aiding the less privileged segments of society, aims to enhance their quality of life through educational programs tailored to the demands of today's technology-driven, knowledge-based economy. My role encompassed not just teaching but also inspiring these children to aspire for greater achievements, aligning with the EWT's mission to foster overall development. Through this outreach, I contributed to empowering individuals with new knowledge and skills, aiding them in improving their life conditions and opportunities for growth. This experience not only enriched my understanding of societal challenges but also underscored the transformative power of education and community engagement.",
+          description:"NSS is one of the aided extra-curricular activities conducted by the University of Mumbai and the Department of Youth Affairs and Sports, Government of India. Its motto is NOT ME BUT YOU. Led National Service Scheme (NSS) as Website Manager for Academic Year 2020-2021. Responsible for keeping the feed updated on the 4 pillars of NSS i.e EDUCATION, SOCIETY, HEALTH, ENVIRONMENT. Dedicated my time and efforts to educate underprivileged children in various locations around Mumbai. The NSS, focused on aiding the less privileged segments of society, aims to enhance their quality of life through educational programs tailored to the demands of today's technology-driven, knowledge-based economy. My role encompassed not just teaching but also inspiring these children to aspire for greater achievements, aligning with the NSS's mission to foster overall development.",
           color: "#4285F4",
         },
-        {
-          title: "Student Volunteed Head at We Can We Will",
-          company: "We Can We Will",
-          company_url: "https://www.microsoft.com/",
-          logo_path: "wecanwewill_logo.png",
-          duration: "Aug 2018 - Mar 2019",
-          location: "Mumbai, India",
-          description:"As a volunteer with We Can We Will, I was entrusted with a meaningful role where I personally mentored a child, guiding their educational journey over eight months. This experience was not just about imparting academic knowledge but also about nurturing their overall growth, aligning with the organization's mission to uplift the less fortunate. We Can We Will focuses on combating hunger and illiteracy, driven by educators and volunteers committed to breaking the cycle of poverty and fostering hope for a brighter future. My involvement allowed me to contribute to this noble cause, working alongside professionals and experts to provide quality education and access to essential healthcare. This period was a testament to the belief that positive change is achievable with courage, determination, and creativity, and every individual deserves the opportunity to live a life of dignity and ",
-          color: "#D83B01",
-        },
-        
+        // {
+        //   title: "Student Volunteed Head at We Can We Will",
+        //   company: "We Can We Will",
+        //   company_url: "https://www.microsoft.com/",
+        //   logo_path: "wecanwewill_logo.png",
+        //   duration: "Aug 2018 - Mar 2019",
+        //   location: "Mumbai, India",
+        //   description:"As a volunteer with We Can We Will, I was entrusted with a meaningful role where I personally mentored a child, guiding their educational journey over eight months. This experience was not just about imparting academic knowledge but also about nurturing their overall growth, aligning with the organization's mission to uplift the less fortunate. We Can We Will focuses on combating hunger and illiteracy, driven by educators and volunteers committed to breaking the cycle of poverty and fostering hope for a brighter future. My involvement allowed me to contribute to this noble cause, working alongside professionals and experts to provide quality education and access to essential healthcare. This period was a testament to the belief that positive change is achievable with courage, determination, and creativity, and every individual deserves the opportunity to live a life of dignity and ",
+        //   color: "#D83B01",
+        // },
       ],
     },
   ],
@@ -536,17 +535,17 @@ const publications = {
   data: [
     {
       id: "1",
-      name: "Covid-19 Detection Using Deep Neural Networks.",
-      createdAt: "2022-06-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
-      url:"https://www.irjet.net/archives/V9/i6/IRJET-V9I658.pdf",
+      name: "Student Faculty Portal using ML & Cloud Services",
+      createdAt: "2021-10-06T16:26:54Z",
+      description: "Published a paper in International Journal for Research in Applied Science and Engineering Technology (IJRASET) on “Student Faculty Portal using ML & Cloud Services”, Nov 2021",
+      url:"https://www.ijraset.com/best-journal/studentfaculty-portal-using-ml-and-cloud-services",
     },
     {
       id: "2",
-      name: "Impact of Procrastination on College Students",
-      createdAt: "2018-02-22T16:26:54Z",
-      description: "My publication, Impact of Procrastination on College Students, presented at the National Conference in Applied Sciences & Humanities (NCASH-2018) on February 22, 2018, achieved notable recognition, earning a win at this esteemed conference. This study, cataloged with ISBN 978-0-9994483-5-9 and featured on page 95, offered a comprehensive analysis of procrastination among college students, a subject that resonates widely in academic circles. By examining the underlying causes such as self-motivation challenges, task complexity, time management issues, and academic pressures, the research provided valuable insights into student behavior. The acknowledgment of this work with an award at NCASH-2018 underscored its significance and impact in the field of educational research, highlighting the critical nature of understanding and addressing procrastination to enhance academic outcomes. This accolade not only celebrated the research's contribution to educational discourse but also emphasized the importance of addressing such fundamental issues in the academic community.",
-      url:"https://docplayer.net/96689481-Ncash-conference-proceedings.html",
+      name: "Technical Paper Presentation",
+      createdAt: "2021-04-22T16:26:54Z",
+      description: "technical paper presentation in National Level Technical Symposium, V-SymCoSci, at Muthayamal College of Engineering;(April 2021).",
+      url:"https://www.linkedin.com/in/kirthikrajkamaraj/",
     },
   ],
 };
@@ -555,9 +554,9 @@ const publications = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "prakash.jpeg",
+    profile_image_path: "linkedin-short-profile.jpg",
     description:
-      "I am available on below social media. You can message me, I will reply within 24 hours. I can help you with, Full Stack, Data Science, Android, Cloud and Opensource Development.",
+      "I am available on below social media. You can message me, I will reply within 24 hours. I can help you with DevOps Deployment, Orchestration & Containerization, Cloud Architecture & Deployment, Full Stack Development, and Data Science..",
   },
   blogSection: {
     title: "Blogs",
@@ -569,11 +568,11 @@ const contactPageData = {
   addressSection: {
     title: "Address",
     subtitle:
-      "700 Health Sciences Drive, Chapin L 1172, Stony Brook",
-    locality: "Stony Brook",
+      "Binghamton, New York, USA",
+    locality: "Binghamton",
     country: "USA",
     region: "New York",
-    postalCode: "11790",
+    postalCode: "13902",
     avatar_image_path: "address_image.svg",
     location_map_link: "https://maps.app.goo.gl/zE5JwYXkEgmUp1nr6",
   },
