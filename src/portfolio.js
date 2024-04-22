@@ -401,20 +401,20 @@ const degrees = {
 const certifications = {
   certifications: [
     {
-      title: "Teaching Assistant, Teaching and Learning",
-      subtitle: "- Graduate Teaching Assistant Training",
-      logo_path: "sbu_logo.png",
+      title: "AWS Solutions Architect Associate",
+      subtitle: "- AWS",
+      logo_path: "aws-solutions-architect.png",
       certificate_link:
-        "https://www.credly.com/badges/09331461-1926-4ca4-9145-e6ece56f56d2/linked_in_profile",
-      alt_name: "Stony Brook University",
+        "https://www.credly.com/badges/91a40525-5293-4d65-a359-a7dfb62cc420/public_url",
+      alt_name: "AWS",
       color_code: "#8C151599",
     },
     {
-      title: "Development in ReactJS",
-      subtitle: "- Infosys Limited",
-      logo_path: "Infosys_logo.png",
-      certificate_link:"https://drive.google.com/file/d/1hixMWmavvw2Itwflm7FcnPoyWEsREPN9/view?usp=sharing",
-      alt_name: "Infosys",
+      title: "AWS Certified Cloud Practitioner",
+      subtitle: "- AWS",
+      logo_path: "aws-certified-cloud-practitioner.png",
+      certificate_link:"https://www.credly.com/badges/f489a185-f5ad-40cb-aad2-62b8f3dc1c42/public_url",
+      alt_name: "AWS",
       color_code: "#00000099",
     },
     {
