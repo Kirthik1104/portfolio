@@ -25,21 +25,12 @@ const greeting = {
   subTitle:
     "Alex is enthusiastic individual dedicated to developing end-to-end products that build sustainable and scalable social and technical systems, aiming to generate a significant impact.",
   resumeLink:
-    "https://drive.google.com/file/d/1RFxzUdUG4HcJcgIraqdrWiBTjMkjp6TK/view?usp=sharing",
+    "https://drive.google.com/file/d/1zZAJ9xtPKTzyOeOIlotNnyOpLy2HAtg8/view?usp=sharing",
   portfolio_repository: "https://github.com/Kirthik1104/portfolio-kirthik",
   githubProfile: "https://github.com/Kirthik1104",
 };
 
 const socialMediaLinks = [
-  /* Your Social Media Link */
-  // github: "https://github.com/Prakash1919",
-  // linkedin: "https://www.linkedin.com/in/Prakash-Upadhyay-88710b138/",
-  // gmail: "PrakashUpadhyay98@gmail.com",
-  // gitlab: "https://gitlab.com/PrakashUpadhyay98",
-  // facebook: "https://www.facebook.com/laymanbrother.19/",
-  // twitter: "https://twitter.com/Prakash_1919",
-  // instagram: "https://www.instagram.com/layman_brother/"
-
   {
     name: "Github",
     link: "https://github.com/Kirthik1104",
@@ -313,59 +304,6 @@ const skills = {
 };
 
 // Education Page
-const competitiveSites = {
-  competitiveSites: [
-    {
-      siteName: "LeetCode",
-      iconifyClassname: "simple-icons:leetcode",
-      style: {
-        color: "#F79F1B",
-      },
-      profileLink: "https://leetcode.com/layman_brother/",
-    },
-    {
-      siteName: "HackerRank",
-      iconifyClassname: "simple-icons:hackerrank",
-      style: {
-        color: "#2EC866",
-      },
-      profileLink: "https://www.hackerrank.com/layman_brother",
-    },
-    {
-      siteName: "Codechef",
-      iconifyClassname: "simple-icons:codechef",
-      style: {
-        color: "#5B4638",
-      },
-      profileLink: "https://www.codechef.com/users/Prakash_1919",
-    },
-    {
-      siteName: "Codeforces",
-      iconifyClassname: "simple-icons:codeforces",
-      style: {
-        color: "#1F8ACB",
-      },
-      profileLink: "http://codeforces.com/profile/layman_brother",
-    },
-    {
-      siteName: "Hackerearth",
-      iconifyClassname: "simple-icons:hackerearth",
-      style: {
-        color: "#323754",
-      },
-      profileLink: "https://www.hackerearth.com/@Prakash391",
-    },
-    {
-      siteName: "Kaggle",
-      iconifyClassname: "simple-icons:kaggle",
-      style: {
-        color: "#20BEFF",
-      },
-      profileLink: "https://www.kaggle.com/laymanbrother",
-    },
-  ],
-};
-
 const degrees = {
   degrees: [
     {
