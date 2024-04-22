@@ -558,17 +558,17 @@ const contactPageData = {
   addressSection: {
     title: "Address",
     subtitle:
-      "Binghamton, New York, USA",
+      "New York, USA (Currently open for relocation)",
     locality: "Binghamton",
     country: "USA",
     region: "New York",
     postalCode: "13902",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://maps.app.goo.gl/zE5JwYXkEgmUp1nr6",
+    location_map_link: "https://www.google.com/maps/place/Binghamton+University/@42.0894328,-75.9720634,16z/data=!3m1!4b1!4m6!3m5!1s0x89daeeb8741e3169:0x73e79cf1ee693edf!8m2!3d42.0894288!4d-75.9694885!16zL20vMDFwODk2?entry=ttu",
   },
   phoneSection: {
     title: "Personal Phone Number",
-    subtitle: "+1 934-451-9593",
+    subtitle: "+1 607-595-9687",
   },
 };
 
