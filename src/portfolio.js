@@ -82,10 +82,6 @@ const skills = {
           imageSrc: "hadoop.png",
         },
         {
-          skillName: "Apache Spark",
-          imageSrc: "pyspark.png",
-        },
-        {
           skillName: "Docker",
           fontAwesomeClassname: "simple-icons:docker",
           style: {
