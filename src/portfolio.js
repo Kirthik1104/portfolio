@@ -21,7 +21,7 @@ const seo = {
 const greeting = {
   title: "Kirthikraj Kamaraj",
   logo_name: "KirthikrajKamaraj",
-  nickname: "random_learner",
+  nickname: "worka_holic",
   subTitle:
     "A enthusiastic individual dedicated to developing end-to-end products that build sustainable and scalable social and technical systems, aiming to generate a significant impact.",
   resumeLink:
