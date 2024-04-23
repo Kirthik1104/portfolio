@@ -9,7 +9,7 @@ const settings = {
 const seo = {
   title: "Kirthikraj Portfolio",
   description:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact...",
   og: {
     title: "Kirthikraj Kamaraj Portfolio",
     type: "website",
