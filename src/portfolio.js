@@ -23,7 +23,7 @@ const greeting = {
   logo_name: "KirthikrajKamaraj",
   nickname: "random_learner",
   subTitle:
-    "An enthusiastic individual dedicated to developing end-to-end products that build sustainable and scalable social and technical systems, aiming to generate a significant impact.",
+    "A enthusiastic individual dedicated to developing end-to-end products that build sustainable and scalable social and technical systems, aiming to generate a significant impact.",
   resumeLink:
     "https://drive.google.com/file/d/1zZAJ9xtPKTzyOeOIlotNnyOpLy2HAtg8/view?usp=sharing",
   portfolio_repository: "https://github.com/Kirthik1104/portfolio-kirthik",
