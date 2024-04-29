@@ -156,8 +156,6 @@ const skills = {
         },
       ],
     },
-  ],
-};
     {
       title: "Cloud Infra-Architecture & Database Management",
       fileName: "CloudInfraImg",
