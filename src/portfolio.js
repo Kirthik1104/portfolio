@@ -78,10 +78,6 @@ const skills = {
           },
         },
         {
-          skillName: "Apache Hadoop",
-          imageSrc: "hadoop.png",
-        },
-        {
           skillName: "Docker",
           fontAwesomeClassname: "simple-icons:docker",
           style: {
@@ -95,8 +91,73 @@ const skills = {
             color: "#326CE5",
           },
         },
+        {
+          skillName: "Jenkins",
+          fontAwesomeClassname: "fab fa-jenkins",
+          style: {
+            color: "#D24939",
+          },
+        },
+        {
+          skillName: "Terraform",
+          fontAwesomeClassname: "fab fa-terraform",
+          style: {
+            color: "#7B42BC",
+          },
+        },
+        {
+          skillName: "Ansible",
+          fontAwesomeClassname: "fab fa-ansible",
+          style: {
+            color: "#EE0000",
+          },
+        },
+        {
+          skillName: "Graphana",
+          fontAwesomeClassname: "fas fa-chart-line",
+          style: {
+            color: "#F46800",
+          },
+        },
+        {
+          skillName: "Prometheus",
+          fontAwesomeClassname: "fas fa-chart-bar",
+          style: {
+            color: "#E6522C",
+          },
+        },
+        {
+          skillName: "Grafana",
+          fontAwesomeClassname: "fas fa-chart-area",
+          style: {
+            color: "#F46800",
+          },
+        },
+        {
+          skillName: "Trivy",
+          fontAwesomeClassname: "fas fa-shield-alt",
+          style: {
+            color: "#4B0082",
+          },
+        },
+        {
+          skillName: "SonarQube",
+          fontAwesomeClassname: "fas fa-bug",
+          style: {
+            color: "#CB2020",
+          },
+        },
+        {
+          skillName: "OWASP Dependency Check",
+          fontAwesomeClassname: "fas fa-lock",
+          style: {
+            color: "#008000",
+          },
+        },
       ],
     },
+  ],
+};
     {
       title: "Cloud Infra-Architecture & Database Management",
       fileName: "CloudInfraImg",
