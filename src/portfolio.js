@@ -78,8 +78,28 @@ const skills = {
           },
         },
         {
-          skillName: "Apache Hadoop",
-          imageSrc: "hadoop.png",
+          skillName: "Ansible",
+          imageSrc: "Ansible_Logo.png",
+        },
+        {
+          skillName: "Jenkins",
+          imageSrc: "Jenkins.png",
+        },
+        {
+          skillName: "grafana",
+          imageSrc: "grafana.png",
+        },
+        {
+          skillName: "SonarQube",
+          imageSrc: "sonarqube.png",
+        },
+        {
+          skillName: "OWASP",
+          imageSrc: "owasp.png",
+        },
+        {
+          skillName: "Terraform",
+          imageSrc: "Terraform.png",
         },
         {
           skillName: "Docker",
@@ -94,7 +114,7 @@ const skills = {
           style: {
             color: "#326CE5",
           },
-        },
+        },,
       ],
     },
     {
@@ -118,12 +138,12 @@ const skills = {
         },
         
         {
-          skillName: "Apache Hadoop",
-          imageSrc: "hadoop.png",
+          skillName: "AWS Solutions Architect",
+          imageSrc: "aws-solutions-architect.png",
         },
         {
-          skillName: "Apache Spark",
-          imageSrc: "pyspark.png",
+          skillName: "AWS RDS",
+          imageSrc: "aws-rds.png",
         },
         {
           skillName: "PostGres SQL",
@@ -162,7 +182,7 @@ const skills = {
         "⚡ Building responsive website front end using HTML5, CSS3, Bootstrap, React.Js",
         "⚡ Creating application backend in Python3 MySQL, NoSQL.",
         "⚡ Specialize in creating Supply Chain and E-commerce full stack applications.",
-        "⚡ Developing mobile applications using Flutter, & Firebase",
+        // "⚡ Developing mobile applications using Flutter, & Firebase",
     
       ],
       softwareSkills: [
@@ -223,13 +243,13 @@ const skills = {
             color: "#663399",
           },
         },
-        {
-          skillName: "Flutter",
-          fontAwesomeClassname: "simple-icons:flutter",
-          style: {
-            color: "#02569B",
-          },
-        },
+        // {
+        //   skillName: "Flutter",
+        //   fontAwesomeClassname: "simple-icons:flutter",
+        //   style: {
+        //     color: "#02569B",
+        //   },
+        // },
         {
           skillName: "Firebase",
           fontAwesomeClassname: "simple-icons:firebase",
@@ -240,7 +260,7 @@ const skills = {
       ],
     },
     {
-      title: "Data Science & Prompt Engineering",
+      title: "Data Science",
       fileName: "DataScienceImg",
       skills: [
         "⚡ Developing highly scalable production ready machine learning models for various kaggle projects and statistical use cases",
