@@ -1,4 +1,4 @@
-/* Change this file to get your personal Porfolio */
+
 
 // Website related settings
 const settings = {
@@ -13,7 +13,6 @@ const seo = {
   og: {
     title: "Kirthikraj Kamaraj Portfolio",
     type: "website",
-    url: "https://prakashupadhyay.netlify.app/",
   },
 };
 
@@ -23,7 +22,7 @@ const greeting = {
   logo_name: "KirthikrajKamaraj",
   nickname: "worka_holic",
   subTitle:
-    "A enthusiastic individual dedicated to developing end-to-end products that build sustainable and scalable social and technical systems, aiming to generate a significant impact.",
+    "Driven by an insatiable passion for innovation and a relentless work ethic. Welcome to my portfolio! I specialize in building robust DevOps & DevSecOps solutions that prioritize security and efficiency. I leverage cutting-edge technologies such as containerization, CI/CD automation, and security integration to streamline development workflows and fortify project resilience. Explore my projects to witness how I translate this passion into tangible, innovative solutions.",
   resumeLink:
     "https://drive.google.com/file/d/1zZAJ9xtPKTzyOeOIlotNnyOpLy2HAtg8/view?usp=sharing",
   portfolio_repository: "https://github.com/Kirthik1104/portfolio-kirthik",
@@ -95,11 +94,15 @@ const skills = {
         },
         {
           skillName: "OWASP",
-          imageSrc: "owasp.png",
+          imageSrc: "owaspp-image.png",
         },
         {
           skillName: "Terraform",
           imageSrc: "Terraform.png",
+        },
+        {
+          skillName: "Prometheus",
+          imageSrc: "pprometheus.png",
         },
         {
           skillName: "Docker",
@@ -284,7 +287,6 @@ const skills = {
             color: "#663399",
           },
         },
-        
         {
           skillName: "Python",
           imageSrc: "python.png",
@@ -383,7 +385,7 @@ const degrees = {
       descriptions: [
         "⚡ I am currently enrolled in the Master of Science program in Computer Science at SUNY, Binghamton University",
         "⚡ Courses Completed: Operating System, Computer Organization and Architecture, Design and Analysis of Algorithm, Programming Languages, System Programming, Cloud Computing, Computer Security, Database Systems, Social Media DataScience Pipeline.",
-        "⚡ Currently working as a Web Designer for Binghamton University. Leading the full scale and redesign and dveleopment of Binghamton University Help Desk website",
+        "⚡ Currently working as a Web Designer for Binghamton University. Led the full-scale redesign and development of Binghamton University’s IT Help Desk website in Omni CMS",
       ],
       website_link: "https://www.binghamton.edu/",
     },
@@ -396,7 +398,7 @@ const degrees = {
       descriptions: [
         "⚡ Completed key certifications and courses in Data Structures, Algorithms, Database Management, and Software Engineering, complemented by internships as a Software Developer Intern at Gustovalley Technovations LLP and an Networking Intern at Thakur College of Engineering & Technology.",
         "⚡ Lead the National Service Scheme (NSS) as the Junior Council & under the post of Website Manager for the year 2020-2021, teaching underprivileged children in Mumbai, and contributing to initiatives aimed at enhancing their quality of life in a rapidly evolving socio-economic landscape.",
-        "⚡ Published a paper in <b>International Journal for Research in Applied Science and Engineering Technology (IJRASET)</b> on “Student Faculty Portal using ML & Cloud Services”, Nov 2021.",
+        "⚡ Published a paper in International Journal for Research in Applied Science and Engineering Technology (IJRASET) on “Student Faculty Portal using ML & Cloud Services”, Nov 2021.",
         "⚡ Technical paper presentation in National Level Technical Symposium, V-SymCoSci, at Muthayamal College of Engineering;(April 2021)"
       ],
       website_link: "https://mu.ac.in/",
@@ -507,16 +509,6 @@ const experience = {
           description:"NSS is one of the aided extra-curricular activities conducted by the University of Mumbai and the Department of Youth Affairs and Sports, Government of India. Its motto is NOT ME BUT YOU. Led National Service Scheme (NSS) as Website Manager for Academic Year 2020-2021. Responsible for keeping the feed updated on the 4 pillars of NSS i.e EDUCATION, SOCIETY, HEALTH, ENVIRONMENT. Dedicated my time and efforts to educate underprivileged children in various locations around Mumbai. The NSS, focused on aiding the less privileged segments of society, aims to enhance their quality of life through educational programs tailored to the demands of today's technology-driven, knowledge-based economy. My role encompassed not just teaching but also inspiring these children to aspire for greater achievements, aligning with the NSS's mission to foster overall development.",
           color: "#4285F4",
         },
-        // {
-        //   title: "Student Volunteed Head at We Can We Will",
-        //   company: "We Can We Will",
-        //   company_url: "https://www.microsoft.com/",
-        //   logo_path: "wecanwewill_logo.png",
-        //   duration: "Aug 2018 - Mar 2019",
-        //   location: "Mumbai, India",
-        //   description:"As a volunteer with We Can We Will, I was entrusted with a meaningful role where I personally mentored a child, guiding their educational journey over eight months. This experience was not just about imparting academic knowledge but also about nurturing their overall growth, aligning with the organization's mission to uplift the less fortunate. We Can We Will focuses on combating hunger and illiteracy, driven by educators and volunteers committed to breaking the cycle of poverty and fostering hope for a brighter future. My involvement allowed me to contribute to this noble cause, working alongside professionals and experts to provide quality education and access to essential healthcare. This period was a testament to the belief that positive change is achievable with courage, determination, and creativity, and every individual deserves the opportunity to live a life of dignity and ",
-        //   color: "#D83B01",
-        // },
       ],
     },
   ],
