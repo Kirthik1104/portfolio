@@ -1,32 +1,74 @@
 {
   "data": [
     {
-      "id": "MDEwOlJlcG9zaXRvcnkzMjcyMjI5Njk=",
-      "name": "Nodejs web application",
-      "createdAt": "2024-04-08T06:36:41Z",
-      "url": "https://github.com/Kirthik1104/todo-node-app",
-      "description": "🚀 Created CI/CD pipeline for Nodejs web application, using docker, jenkins, AWS EC2 & webhooks",
+      "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
+      "name": "Secure Application Delivery through DevSecOps Automation and Containerization",
+      "createdAt": "2024-04-01T08:31:51Z",
+      "url": "https://github.com/Kirthik1104/wanderlust/tree/DevSecOps",
+      "description": "🚀 This project uses Docker and Docker Compose for containerization, integrating security tools like SonarQube, OWASP, and Trivy into an automated CI/CD pipeline with Jenkins.",
       "isFork": false,
       "languages": [
-        {
-          "name": "React JS",
-          "iconifyClass": "logos-react"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        },
         {
           "name": "JavaScript",
           "iconifyClass": "logos-javascript"
         },
         {
-          "name": "ChatGPT",
-          "iconifyClass": "logos-openai-icon"
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        { 
+          "name": "Jenkins", 
+          "iconifyClass": "simple-icons:jenkins" 
         },
         {
-          "name": "Python",
-          "iconifyClass": "logos-python"
+          "name": "React JS",
+          "iconifyClass": "logos-react"
+        },
+        { 
+          "name": "SonarQube", 
+          "iconifyClass": "simple-icons:sonarqube" 
+        },
+        { 
+          "name": "OWASP", 
+          "iconifyClass": "simple-icons:owasp" 
+        },
+        { 
+          "name": "AWS", 
+          "iconifyClass": "logos:aws" 
+        },
+        { 
+          "name": "Trivy", 
+          "iconifyClass": "simple-icons:trivy" 
+        },
+        {
+          "name": "docker",
+          "iconifyClass": "logos:docker-icon"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzMjcyMjI5Njk=",
+      "name": "CI/CD Automation for Node.js Web App using Docker, Jenkins, and AWS",
+      "createdAt": "2024-04-08T06:36:41Z",
+      "url": "https://github.com/Kirthik1104/todo-node-app",
+      "description": "🚀 Implemented a robust CI/CD pipeline leveraging Docker containerization, Jenkins automation, and AWS EC2 deployment for a Node.js web application",
+      "isFork": false,
+        "languages": [
+        { 
+          "name": "Node.js", 
+          "iconifyClass": "logos:nodejs-icon" 
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        { 
+          "name": "Jenkins", 
+          "iconifyClass": "simple-icons:jenkins" 
+        },
+        {
+          "name": "docker",
+          "iconifyClass": "logos:docker-icon"
         }
       ]
     },
@@ -39,22 +81,21 @@
       "isFork": false,
       "languages": [
         {
-          "name": "Flutter",
-          "iconifyClass": "logos-flutter"
+          "name": "Python",
+          "iconifyClass": "logos-python"
         },
-        {
-          "name": "Firebase",
-          "iconifyClass": "logos-firebase"
+        { 
+          "name": "PostgreSQL", 
+          "iconifyClass": "logos:postgresql" 
         },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
+        { 
+          "name": "Linux", 
+          "iconifyClass": "logos:linux-tux" 
         },
-        {
-          "name": "Android",
-          "iconifyClass": "devicon-android"
+        { 
+          "name": "Streamlit", 
+          "iconifyClass": "logos:streamlit" 
         }
-        
       ]
     },
     {
@@ -69,6 +110,10 @@
           "name": "Python",
           "iconifyClass": "logos-python"
         },
+        { 
+          "name": "GCP", 
+          "iconifyClass": "logos:google-cloud" 
+        },
         {
           "name": "OpenCV",
           "iconifyClass": "logos-opencv"
@@ -80,24 +125,16 @@
       "name": "Airbnb-Data-Analysis",
       "createdAt": "2022-02-11T14:50:20Z",
       "url": "https://github.com/Kirthik1104/Airbnb-Data-Analysis",
-      "description": "🌀 dentified the number of Airbnb locations owned by an individual host also predicted popular Airbnb locations along with high rated host furthermore gathered locations of different room types with minimum prices and maximum reviews.",
+      "description": "🌀 Identified the number of Airbnb locations owned by an individual host also predicted popular Airbnb locations along with high rated host furthermore gathered locations of different room types with minimum prices and maximum reviews.",
       "isFork": false,
       "languages": [
-        {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        },
         {
           "name": "Python",
           "iconifyClass": "logos-python"
         },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
+        { 
+          "name": "MongoDB", 
+          "iconifyClass": "logos:mongodb-icon" 
         }
       ]
     },
@@ -112,28 +149,6 @@
         {
           "name": "Python",
           "iconifyClass": "logos-python"
-        },
-        {
-          "name": "OpenCV",
-          "iconifyClass": "logos-opencv"
-        }
-      ]
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
-      "name": "Grocery-Shopping-Cart-Analysis",
-      "createdAt": "2021-01-01T08:31:51Z",
-      "url": "https://github.com/Kirthik1104/Grocery-Shopping-Cart-Analysis",
-      "description": "🚀 Leveraging an already stored data and to analyze customer purchasing patterns in a grocery shop to maximize sales and profit",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
         },
         {
           "name": "OpenCV",
