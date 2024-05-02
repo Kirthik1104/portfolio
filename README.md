@@ -1,2 +1,2 @@
 # portfolio
-Prakash Personal Portfolio using ReactJS
+My Personal Portfolio using ReactJS
